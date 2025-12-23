@@ -5,3 +5,4 @@ npm install
 npm start
 ```
 
+Deployment: https://suyashsahu00.github.io/password_generator/
